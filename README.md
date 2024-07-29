@@ -1,6 +1,6 @@
 # School Management Software
 
-![SCHOOL MANAGEMENT SYSTEM](./media/header.png)
+![SCHOOL MANAGEMENT SYSTEM](./media_/header.png)
 
 This project is a CRUD school management system application that has been developed using Python, PyQt6, Qt Designer, and MySQL.
 
@@ -32,7 +32,7 @@ This project is a CRUD school management system application that has been develo
 
 |                            Login                             |                       Logout                       |
 | :----------------------------------------------------------: | :------------------------------------------------: |
-| <img src=".\media\login.gif" alt="Login" style="zoom: 90%;" /> | <img src="./media/logout.gif" style="zoom:90%;" /> |
+| <img src=".\media_\login.gif" alt="Login" style="zoom: 90%;" /> | <img src="./media_/logout.gif" style="zoom:90%;" /> |
 
 ### Student Tab
 
@@ -44,7 +44,7 @@ This project is a CRUD school management system application that has been develo
 
 | Add New Student                                         | Edit / Delete Student                                        |
 | ------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="./media/student_add.gif" style="zoom:90%;" /> | <img src="./media/student_edit_delete.gif" style="zoom:90%;" /> |
+| <img src="./media_/student_add.gif" style="zoom:90%;" /> | <img src="./media_/student_edit_delete.gif" style="zoom:90%;" /> |
 
 ### Marks Tab
 
@@ -56,7 +56,7 @@ This project is a CRUD school management system application that has been develo
 
 | Add Marks                                             | Edit / Delete Marks                                          |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="./media/marks_add.gif" style="zoom:90%;" /> | <img src="./media/marks_edit_delete.gif" style="zoom:90%;" /> |
+| <img src="./media_/marks_add.gif" style="zoom:90%;" /> | <img src="./media_/marks_edit_delete.gif" style="zoom:90%;" /> |
 
 ### Attendance Tab
 
@@ -69,7 +69,7 @@ This project is a CRUD school management system application that has been develo
 
 | Add Attendance                                             | Edit / Delete Attendance                                     |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="./media/attendance_add.gif" style="zoom:90%;" /> | <img src="./media/attendance_edit_delete.gif" style="zoom:90%;" /> |
+| <img src="./media_/attendance_add.gif" style="zoom:90%;" /> | <img src="./media/attendance_edit_delete.gif" style="zoom:90%;" /> |
 
 ### Fees Tab
 
@@ -83,7 +83,7 @@ This project is a CRUD school management system application that has been develo
 
 | Add Fees                                             | Edit / Delete Fees                                           |
 | ---------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="./media/fees_add.gif" style="zoom:90%;" /> | <img src="./media/fees_edit_delete.gif" style="zoom:90%;" /> |
+| <img src="./media_/fees_add.gif" style="zoom:90%;" /> | <img src="./media/fees_edit_delete.gif" style="zoom:90%;" /> |
 
 ### Reports Tab
 
@@ -97,7 +97,7 @@ This project is a CRUD school management system application that has been develo
 
 |                    View Reports                     |
 | :-------------------------------------------------: |
-| <img src="./media/reports.gif" style="zoom:80%;" /> |
+| <img src="./media_/reports.gif" style="zoom:80%;" /> |
 
 
 
