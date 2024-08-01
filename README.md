@@ -69,7 +69,7 @@ This project is a CRUD school management system application that has been develo
 
 | Add Attendance                                             | Edit / Delete Attendance                                     |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="./media_/attendance_add.gif" style="zoom:90%;" /> | <img src="./media/attendance_edit_delete.gif" style="zoom:90%;" /> |
+| <img src="./media_/attendance_add.gif" style="zoom:90%;" /> | <! ––<img src="./media/attendance_edit_delete.gif" style="zoom:90%;" />--> |
 
 ### Fees Tab
 
@@ -83,7 +83,7 @@ This project is a CRUD school management system application that has been develo
 
 | Add Fees                                             | Edit / Delete Fees                                           |
 | ---------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="./media_/fees_add.gif" style="zoom:90%;" /> | <img src="./media/fees_edit_delete.gif" style="zoom:90%;" /> |
+| <img src="./media_/fees_add.gif" style="zoom:90%;" /> | <! ––<img src="./media/fees_edit_delete.gif" style="zoom:90%;" />--> |
 
 ### Reports Tab
 
@@ -105,7 +105,7 @@ This project is a CRUD school management system application that has been develo
 
 1. Clone the repository
 
-​	`git clone https://github.com/ankitsamaddar/school_management_pyqt.git`
+​	`git clone https://github.com/lutoF90/SMS.git`
 
 2. (**Optional**) Create a Python virtual environment and activate it
 
@@ -145,9 +145,6 @@ This project is a CRUD school management system application that has been develo
 
 2. Use the software to manage Student Registration, Attendance, Exam and Result Management, Fee Management, and Generate Reports.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
 
 ## Acknowledgments
 
